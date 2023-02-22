@@ -1,0 +1,63 @@
+{
+	"id": "bf95043a-4a9e-45c0-8232-196db8bc28c2",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://api.trello.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "OrganizationID",
+			"value": "63e90d9ad01e9adeecd79088",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Key",
+			"value": "39e6bf3918a848b6e2a188d8af1963e1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "ATTA6a549665a9ee30d53087123e48b629f7d970d600f9192f3c5baed9f1d7b1a56b2EADDEE9",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BoardID",
+			"value": "63e90ea20e1e839203a90147",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ListID",
+			"value": "63e90fe051ad001e26034d6c",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Descreption",
+			"value": "create new board in trello",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BoardName",
+			"value": "Trello APIs Test mshe",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ListName",
+			"value": "Trello APIs List",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-02-22T20:25:49.509Z",
+	"_postman_exported_using": "Postman/10.10.6"
+}
